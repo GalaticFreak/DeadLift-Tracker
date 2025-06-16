@@ -26,6 +26,3 @@ By analyzing joint angles captured via MediaPipe, the system classifies posture 
 - Matplotlib (for plotting results)
 
 ---
-
-## 📁 Project Structure
-
